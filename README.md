@@ -16,6 +16,8 @@ Passionné de développement depuis mon plus jeune âge, essentiellement tourné
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML 5"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS 3"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
+  <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"></a>
+  <br>
   <a href="https://jquery.com/" target="_blank" title="Jquery"><img src="https://img.icons8.com/ios-filled/40/4a90e2/jquery.png"></a>
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
 </p>
