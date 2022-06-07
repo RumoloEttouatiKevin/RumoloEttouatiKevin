@@ -1,4 +1,4 @@
-### <h1 align="center">Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, moi c'est Kévin Rumolo-Ettouati</h1>
+### <h1 align="center">Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, moi c'est Kévin Rumolo-Ettouati</h1>
 
 <p align="center"><img width="300" src="https://i.ibb.co/JcS564v/Mini-moi.png"></p>
 
