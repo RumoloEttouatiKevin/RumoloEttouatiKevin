@@ -181,9 +181,11 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RumoloEttouatiKevin&theme=dark&count_private=true&show_icons=true&langs_count=10&layout=compact">
     </a>
+    <br><br>
+    <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/ashutosh00710/github-readme-activity-graph)">
+        <img width="816" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RumoloEttouatiKevin&theme=react-dark&radius=8">
+    </a>
 </p>
-
-[![RumoloEttouatiKevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RumoloEttouatiKevin&theme=react-dark&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛫 La suite
 
