@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, moi c'est Kévin Rumolo-Ettouati</h1>
+<h1 align="center">Bonjour <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, moi c'est Kévin</h1>
 
 ## 🙋‍♂️ A propos
 
@@ -12,7 +12,7 @@ Passionné de développement depuis mon plus jeune âge, essentiellement tourné
 
 J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un expert !
 
-<p align="center">
+<p align="center" style="backgound-color: white;">
     <a href="https://httpd.apache.org/" target="_blank" title="Apache">
         <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
     </a>
@@ -62,7 +62,7 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/" target="_blank" title="GitHub">
-        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://about.gitlab.com/" target="_blank" title="GitLab">
@@ -82,7 +82,7 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://laravel.com/" target="_blank" title="Laravel">
-        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linux.org/" target="_blank" title="Linux">
@@ -114,7 +114,7 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.jetbrains.com/phpstorm/" target="_blank" title="PhpStorm">
-        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" />
+        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
@@ -150,7 +150,7 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.ubuntu-fr.org/" target="_blank" title="ubuntu">
-        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+        <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.vim.org/" target="_blank" title="Vim">
@@ -174,6 +174,8 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
 
 ## 📊 Mes statistiques Github ✨
 
+Ces dernières années, j'ai principalement utilisé GitLab ou Azure sur des projets interne aux entreprises, j'ai donc de moins en moins de participation sur GitHub.
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="462" align="center" src="https://github-readme-stats.vercel.app/api?username=RumoloEttouatiKevin&count_private=true&show_icons=true&theme=radical">
@@ -186,11 +188,3 @@ J'ai utilisé ces technos, j'ai appris à m'en servir, je suis loin d'être un e
         <img width="816" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RumoloEttouatiKevin&theme=react-dark&radius=8">
     </a>
 </p>
-
-## 🛫 La suite
-
-| 🖼️ Portrait | 🌱 Apprenez avec moi | 📫 Contactez-moi |
-|------------|---------------------|-----------------|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="center"><img width="300" src="https://i.ibb.co/JcS564v/Mini-moi.png"></p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="center"><a href="https://www.codewars.com/users/RumoloEttouatiKevin" target="_blank" title="CodeWars"><img height="48px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"></a>&nbsp;&nbsp;<a href="https://www.codingame.com/profile/e413e27b430e7971b324f2480c4109053088274" target="_blank" title="CodinGame"><img width="48px" src="https://static.codingame.com/assets/favicon_32_32.0042ee23.png"></a></p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p align="center"><a href="https://www.linkedin.com/in/rumoloettouatikevin/" target="_blank" title="LinkedIn"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-
-
